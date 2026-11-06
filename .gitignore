@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.task
+*.npz
+data/
+results.csv
+.DS_Store
